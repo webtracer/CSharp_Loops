@@ -1,0 +1,16 @@
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Loops - Challenge1\Loops - Challenge1\obj\Debug\net5.0\Loops - Challenge1.csproj.AssemblyReference.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Loops - Challenge1\Loops - Challenge1\obj\Debug\net5.0\Loops - Challenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Loops - Challenge1\Loops - Challenge1\obj\Debug\net5.0\Loops - Challenge1.AssemblyInfoInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Loops - Challenge1\Loops - Challenge1\obj\Debug\net5.0\Loops - Challenge1.AssemblyInfo.cs
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Loops - Challenge1\Loops - Challenge1\obj\Debug\net5.0\Loops - Challenge1.csproj.CoreCompileInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Loops - Challenge1\Loops - Challenge1\bin\Debug\net5.0\Loops - Challenge1.exe
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Loops - Challenge1\Loops - Challenge1\bin\Debug\net5.0\Loops - Challenge1.deps.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Loops - Challenge1\Loops - Challenge1\bin\Debug\net5.0\Loops - Challenge1.runtimeconfig.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Loops - Challenge1\Loops - Challenge1\bin\Debug\net5.0\Loops - Challenge1.runtimeconfig.dev.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Loops - Challenge1\Loops - Challenge1\bin\Debug\net5.0\Loops - Challenge1.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Loops - Challenge1\Loops - Challenge1\bin\Debug\net5.0\ref\Loops - Challenge1.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Loops - Challenge1\Loops - Challenge1\bin\Debug\net5.0\Loops - Challenge1.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Loops - Challenge1\Loops - Challenge1\obj\Debug\net5.0\Loops - Challenge1.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Loops - Challenge1\Loops - Challenge1\obj\Debug\net5.0\ref\Loops - Challenge1.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Loops - Challenge1\Loops - Challenge1\obj\Debug\net5.0\Loops - Challenge1.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Loops - Challenge1\Loops - Challenge1\obj\Debug\net5.0\Loops - Challenge1.genruntimeconfig.cache

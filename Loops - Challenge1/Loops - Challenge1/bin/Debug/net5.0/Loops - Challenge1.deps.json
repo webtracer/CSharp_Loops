@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Loops - Challenge1/1.0.0": {
+        "runtime": {
+          "Loops - Challenge1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loops - Challenge1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
